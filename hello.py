@@ -9,3 +9,5 @@ print("workブランチ用")
 print("workブランチ用2")
 
 print("workブランチ用3")
+
+print("workブランチ用3")
